@@ -12,6 +12,8 @@
 /build
 
 # misc
+dummy.txt
+info.txt
 .env
 .DS_Store
 .env.local
